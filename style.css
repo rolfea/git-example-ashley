@@ -1,0 +1,44 @@
+#welcome {
+  /* float: right; */
+  width:50%;
+  padding: 10px;
+  font-family: comic sans ms;
+  color: green;
+  background-color: green;
+}
+
+#nav-column {
+  float: left;
+  width: 5%;
+  background-color: #eeeeee;
+  /* padding: 20px 30px 20px 10px; */
+}
+
+#table-content{
+  float:right;
+  text-align:center;
+  background-color: red;
+}
+
+
+h1{
+  font-size: 2.8em;
+  width: 65%;
+  padding: 15px;
+}
+td{
+  padding: 15px;  
+}
+th{
+  font-size: 1.3em;
+  color:#414040;
+  text-decoration: underline;
+}
+tr{
+  padding:30px;
+  font-family: arial;
+}
+
+td:first-child {
+  font-style: italic;
+}
